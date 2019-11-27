@@ -1,37 +1,50 @@
-## Welcome to GitHub Pages
+# Extinguisher Geeks <img src="https://www.hrlcomp.com/wp-content/uploads/2018/08/Fire-Extinguisher-Training-1350x675.jpg" width="100">[Home](homepage.md)     [About]() [Tutorial](tutorial.md)
 
-You can use the [editor on GitHub](https://github.com/JiaNannnn/extinguish.gist.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Reference for Week1:
+  * [Github desktop] https://desktop.github.com/
+  * [Git] https://git-scm.com/
+  * [Tutorial On How to use Git] https://www.youtube.com/watch?v=pwOwl2N2fmk
+  
+Reference for Week2：
+  * [Micropython] https://micropython.org
+  * [Micropython microbit] https://microbit-micropython.readthedocs.io/en/latest/micropython.html
+  * [CodeWithMu] https://codewith.mu/en/about
 
-### Markdown
+Reference for Week3:
+  * [Tanks] https://en.wikipedia.org/wiki/Tank
+  * [Tiles of Tank(tracked vechicles)] https://en.wikipedia.org/wiki/Sprocket
+  
+ Reference for Week4:  
+  * [ESP32] http://esp32.net/
+  * For breadboard, use only red wire for 5V. To prevent confusion during fault detection.
+  * [Step1:Building Firmware] https://learn.adafruit.com/building-and-running-micropython-on-the-esp8266/build-firmware
+  * [Step2:Flash Fimware] https://learn.adafruit.com/building-and-running-micropython-on-the-esp8266/flash-firmware
+  
+ <img src="https://i.pinimg.com/originals/7b/78/dd/7b78dd80cdb3f6c4e65cabd3d10bf14e.png">
+ 
+ * [How to use a Bi-directional logic level converter
+ ]  https://learn.sparkfun.com/tutorials/bi-directional-logic-level-converter-hookup-guide/all
+ 
+ *[] https://dronebotworkshop.com/dc-motors-l298n-h-bridge/
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+1:knowing that you are going to use the esp32.
 
-```markdown
-Syntax highlighted code block
+2.go to websites where you can choose the model of esp32 which is suitable and affordable for your usage.
 
-# Header 1
-## Header 2
-### Header 3
+2a.After purchasing the esp32 
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+Reference for Week5：
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Esp32-Refsite-DOc
 
-### Jekyll Themes
+  -Pin conf-indicators
+  
+Reference for Week 7:
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/JiaNannnn/extinguish.gist.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+# <img src="power1.jpg" width="500">
+<img src="power.jpg" width="500">
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
