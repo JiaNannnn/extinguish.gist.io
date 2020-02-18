@@ -8,6 +8,3 @@ i2c = I2C(-1, scl=Pin(22), sda=Pin(21))
 servo = servo.Servos(i2c)
 
 servo.position(0, degrees=100)
-
-#time.sleep(1)
-#servo.position(0, degrees=150)
