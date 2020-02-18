@@ -122,9 +122,6 @@ def web_page():
   -o-transform: rotate(180deg);
   transform: rotate(180deg);}
    </style>
-  <script src=\"https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js\"></script>
-  <script src="https://obniz.io/js/jquery-3.2.1.min.js"></script>
-  <script src="https://unpkg.com/obniz@3.3.0/obniz.js"></script>
   </head>
   <body> 
   <h1>ESP Web Server</h1>
